@@ -8,7 +8,7 @@ This would also allow for dynamic themes in future versions, tied to the genre o
 
 ## Installation
 
-No installation is necessary. The website can be accessed [here](https://morning-spire-04153.herokuapp.com/games).
+No installation is necessary. The website can be accessed [here](https://morning-spire-04153.herokuapp.com/).
 
 ## Usage
 
